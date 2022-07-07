@@ -10,6 +10,7 @@ namespace CSharpPractice
     {
         private static void Main(string[] args)
         {
+
         }
     }
 }
